@@ -5,7 +5,7 @@
     "typescript.tsserver.watchOptions": {
         "watchFile": "dynamicPriorityPolling"
     },
-    "javascript.suggest.includeAutomaticOptionalChainCompletions": false,
+    "javascript.suggest.includeAutomaticOptionalChainCompletions": true,
     "debug.saveBeforeStart": "none",
     "vscode-as-git-mergetool.settingsAssistantOnStartup": false
 }
